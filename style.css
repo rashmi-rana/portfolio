@@ -238,7 +238,7 @@ hr {
 .project-list {
     min-height: 70rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(60rem, 1fr));
     /* define the number of grid columns */
     grid-gap: 3.5rem;
     margin: 3.5rem;
@@ -326,7 +326,7 @@ hr {
 
 .contact-item h2 {
     height: 5rem;
-    width: 33rem;
+    width: 40rem;
     position: relative;
     display: flex;
     background-color: #fafaff;
